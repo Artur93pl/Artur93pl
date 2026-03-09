@@ -16,7 +16,7 @@ By Eric Matthes, and eventually starting a career in a field that I am passionat
 ## Technologies I'm Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,github,aws,mysql,jetbrains" />
+  <img src="https://skillicons.dev/icons?i=python,pycharm,ai,java,html,css,cs,github,aws,mysql" />
 </p>
 
 ## Projects
