@@ -1,4 +1,3 @@
-# Artur93pl
 
 # Hi, I'm Artur 👋
 
