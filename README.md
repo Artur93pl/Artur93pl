@@ -10,7 +10,7 @@ Currently, I am particularly interested in:
 * Web Development
 * Cloud Computing with AWS
 
-My goal is to grow as a developer by building real projects, learning from O'reilly books such as Python Crash Course, 3rd Edition
+My goal is to grow as a developer by building real projects, learning from technical resources such as Python Crash Course, 3rd Edition
 By Eric Matthes, and eventually starting a career in a field that I am passionate about.
 
 ## Technologies I'm Learning
