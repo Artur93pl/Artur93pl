@@ -1,7 +1,7 @@
 
 # Hi, I'm Artur 👋
 
-I am a **Second-Year Computer Science Student (Semester 2)** passionate about building practical technology solutions and continuously developing my programming skills.
+I am a **Third-Year Computer Science Student (Summer break)** passionate about building practical technology solutions and continuously developing my programming skills.
 
 Currently, I am particularly interested in:
 
